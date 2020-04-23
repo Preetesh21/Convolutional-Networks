@@ -14,3 +14,4 @@ It is a popular approach in deep learning where pre-trained models are used as t
 
 ### Age-Gender Prediction
 The dataset belongs to the UTKFace dataset compromising of 23k images and is used to predict the age and gender of the people.The gender part receives over 90% accuracy in validation data whereas for the age part the accuracy metric doesn't serve as a good metric for evaluating the model.There are two ways used to implement the model.One via using pretrained weights and one without it.
+![AGE PREDICTION](distribution.png)
